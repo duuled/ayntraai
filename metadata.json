@@ -1,0 +1,12 @@
+{
+  "name": "Ayntra Innovation - Multimodal Infrastructure Field Inspector",
+  "description": "Mobile-first multimodal AI inspection dashboard for physical infrastructure with live camera, audio streaming, Gemini 3.8 Live API integration, and webhook dispatch.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
